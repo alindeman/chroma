@@ -1,4 +1,4 @@
-# chroma
+# chroma [![Build Status](https://travis-ci.org/alindeman/chroma.svg?branch=master)](https://travis-ci.org/alindeman/chroma)
 
 > freedom from dilution with white and hence vivid in hue
 
