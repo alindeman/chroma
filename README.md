@@ -2,7 +2,8 @@
 
 > freedom from dilution with white and hence vivid in hue
 
-**chroma** is a wrapper around the [Philips Hue API] in go.
+**chroma** is a wrapper around the [Philips Hue
+API](http://developers.meethue.com/index.html) in go.
 
 It's not entirely complete, but probably doesn't suck. It has tests. I use it.
 
