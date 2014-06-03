@@ -45,7 +45,7 @@ The `Authorize()` step only needs to be performed once per username.
 
 ```go
 lights, err := client.Lights()
-if err != nil && len(lights) > 0 {
+if err == nil && len(lights) > 0 {
   if lights[0].State.On {
     fmt.Println("The first light is on!")
   }
